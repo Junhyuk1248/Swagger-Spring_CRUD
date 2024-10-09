@@ -1,10 +1,10 @@
-package com.people.practice.cj;
+package com.spring.practice.simple_project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CjApplicationTests {
+class SimpleProjectApplicationTests {
 
 	@Test
 	void contextLoads() {

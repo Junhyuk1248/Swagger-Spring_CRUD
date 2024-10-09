@@ -1,13 +1,13 @@
-package com.people.practice.cj;
+package com.spring.practice.simple_project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CjApplication {
+public class SimpleProjectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CjApplication.class, args);
+		SpringApplication.run(SimpleProjectApplication.class, args);
 	}
 
 }
